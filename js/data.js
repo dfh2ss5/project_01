@@ -1,0 +1,103 @@
+var goodData = {
+        path:[
+            {
+                title:'手机,数码,通讯',
+                url:'#'
+            },{
+                title:'手机',
+                url:'#'
+            },{
+                title:'Apple苹果',
+                url:'#'
+            },{
+                title:'iphon6S系'
+            }
+        ],
+        imagessrc:[
+            {b:'img/b3.png',s:'img/s3.png'},
+            {b:'img/aside_img.jpg',s:'img/aside_img.jpg'},
+            {b:'img/aside_img.jpg',s:'img/aside_img.jpg'},
+            {b:'img/b3.png',s:'img/s3.png'},
+            {b:'img/aside_img.jpg',s:'img/aside_img.jpg'},
+            {b:'img/b3.png',s:'img/s3.png'},
+            {b:'img/aside_img.jpg',s:'img/aside_img.jpg'},
+            {b:'img/b3.png',s:'img/s3.png'},
+            {b:'img/aside_img.jpg',s:'img/aside_img.jpg'},
+            {b:'img/b3.png',s:'img/s3.png'},
+            {b:'img/aside_img.jpg',s:'img/aside_img.jpg'},
+            {b:'img/aside_img.jpg',s:'img/aside_img.jpg'}
+        ],
+        goodDetail:{
+            title:'Apple iPhone 6s (A700) 64G玫瑰金色 移动通信电信4G手机',
+            recommend:'推荐选择下方【移动优惠购】，手机套餐齐搞定，不用换号，每月还有话费返',  
+            price:'5299',
+            evaluateNum: '670000',
+            promoteSales:{
+                type:'加价购',
+                content:'满999.00另加20.00元，或满2999.00另加40.00元，即可在购物·车换购热销商品'
+            },
+            aupport:'以旧换新，闲置手机回收 4G套餐超值抢 礼品购',
+            address: '至广东省 深圳 宝安区',
+            crumbData: [
+                {
+                   title:'选择颜色' ,
+                   data:[
+                    {
+                        type:'金色',
+                        changPrice:0
+                    },{
+                        type:'银色',
+                        changPrice:40
+                    },{
+                        type:'黑色',
+                        changPrice:90
+                    }
+                   ]              
+                },{
+                    title:'内存容量',
+                    data:[
+                        {
+                            type:'16G',
+                            changPrice:0
+                        },{
+                            type:'64G',
+                            changPrice:40
+                        },{
+                            type:'128G',
+                            changPrice:90
+                        },{
+                            type:'256G',
+                            changPrice:120
+                        }
+
+                    ]
+                },{
+                    title:'选择版本',
+                    data:[
+                        {
+                            type:'公开版',
+                            changPrice:0
+                        },{
+                            type:'移动版',
+                            changPrice:40
+                        }
+                    ]
+                },{
+                    title:'购买方式',
+                    data:[
+                        {
+                            type:'官方标配',
+                            changPrice:0
+                        },{
+                            type:'优惠移动版',
+                            changPrice:40
+                        },{
+                            type:'电信优惠版',
+                            changPrice:90
+                        }
+                    ]
+                }
+
+            ]
+        }
+    }
